@@ -40,6 +40,7 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - Oct 26-27, [JS Everywhere](http://www.jseverywhere.org/), Steve Gill
 
 ### ARTICLES
+- [What's New in Cordova Android 2.2.0](http://simonmacdonald.blogspot.ca/2012/10/whats-new-in-phonegap-android-220.html), Simon MacDonald
 - [PhoneGap: a misunderstood hybrid framework](http://blog.cuttleworks.com/2012/10/phonegap-a-misunderstood-hybrid-framework/), Romain Prieto
 - [What's New in Cordova iOS 2.2.0](http://shazronatadobe.wordpress.com/2012/10/27/whats-new-in-cordova-ios-2-2-0/), Shazron Abdullah
 - [Introducing Walkable – A New Sample App for PhoneGap](http://www.tricedesigns.com/2012/10/02/introducing-walkable-a-new-sample-app-for-phonegap/), Andy Trice
